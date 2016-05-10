@@ -1,0 +1,2 @@
+# golana
+Golana.net
